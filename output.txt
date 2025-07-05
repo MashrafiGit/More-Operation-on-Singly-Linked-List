@@ -1,5 +1,5 @@
-Tail Before delete: 50
-Tail After delete: 30
 10
 20
 30
+40
+50
